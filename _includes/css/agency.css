@@ -301,6 +301,13 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .intro-text .intro-about {
+    margin-bottom: 30px;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 20px;
+    line-height: 50px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
