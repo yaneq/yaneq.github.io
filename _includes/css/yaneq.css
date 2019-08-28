@@ -1,0 +1,26 @@
+.lets-talk {}
+.lets-talk .header-container {
+  position: relative;
+}
+.lets-talk .header-container .speechbubble {
+  position: absolute;
+  top: -196px;
+  right: -259px;
+  color: #eee;
+  font-size: 15em;
+  opacity: 0.3;
+}
+
+.lets-talk .ctas {
+  margin: 50px;
+}
+
+.lets-talk .ctas .inter-button {
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+  font-size: 1.5em;
+  font-style: italic;
+  font-weight: 400;
+  margin: 30px;
+  color: #ddd;
+  vertical-align: middle;
+}
