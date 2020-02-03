@@ -21,9 +21,11 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://github.com/yaneq
+    url: https://twitter.com/yaneq
   - title: github
     url: http://github.com/yaneq
+  - title: linkedin
+    url: https://www.linkedin.com/in/jkoeppen/
 
 # Postal address (add as many lines as necessary)
 address:
